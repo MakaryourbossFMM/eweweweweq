@@ -46,15 +46,23 @@
 [С подсказкой](https://github.com/MakaryourbossFMM/eweweweweq/edit/master/README.md "При наведении")
 
 <https://github.com/MakaryourbossFMM/eweweweweq/edit/master/README.md>
-[Ссылочный стиль] [1]
+
+[Ссылочный стиль][1]
+
 [1]: https://github.com/MakaryourbossFMM/eweweweweq/edit/master/README.md
 
 Картинки
 ---------
 ![Альт текст](Picture1.png)
-![Логотип](Picture2.png)
+![Логотип](Picture1.png)
 
-[![Клик по картинке](Picture1.png)
+
+
+
+
+
+
+[![Клик по картинке](Picture2.png)](Picture1.png)
 
 
 
