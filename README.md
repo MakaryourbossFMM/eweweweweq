@@ -1,1 +1,56 @@
-# eweweweweq
+# Заголовок 1
+## Заголовок 2
+### Заголовок 3
+#### Заголовок 4
+##### Заголовок 5
+###### Заголовок 6
+
+Выделение текста
+------------------
+
+*Курсив* / _Курсив_
+
+**Жирный** / __Жирный__
+
+***Жирный и курсив*** / ___Жирный и курсив___
+
+~~зачеркивание~~
+
+`Моношириный код`
+
+Списки
+----
+
+- Пункт 1
+- Пункт 2
+  - Вложенный
+  - еще
+* Пункт 3
+* Пункт 4
++ Пункт 5
+
+1. Первый 
+2. Второй
+3. третий
+   1. Вложенный
+   2. еще один
+
+- [x] 1 
+- [ ] 2
+- [x] 3
+
+Ссылки
+------
+
+[Текст ссылки](https://github.com/MakaryourbossFMM/eweweweweq/edit/master/README.md)
+[С подсказкой](https://github.com/MakaryourbossFMM/eweweweweq/edit/master/README.md "При наведении")
+
+<https://github.com/MakaryourbossFMM/eweweweweq/edit/master/README.md>
+[Ссылочный стиль] [1]
+[1]: https://github.com/MakaryourbossFMM/eweweweweq/edit/master/README.md
+
+Картинки
+---------
+![Альт текст](
+
+
